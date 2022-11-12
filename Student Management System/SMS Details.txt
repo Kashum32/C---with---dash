@@ -1,0 +1,13 @@
+
+ --------------------------------------------------------------STUDENT MANAGEMENT SYSTEM----------------------------------------------------
+
+** A small college has about 100 students. For each student number, name, department, year of joining is to be recorded. Write a program to do the following:
+
+
+- Print the names of all students who joined a particular year. ( get this year from the user)
+- Print the data on a student whose student number is given. (get this from the user).
+
+
+Use a menu to do this. A sample student data will be
+
+1456 S. Kamalini Computer Science 2017

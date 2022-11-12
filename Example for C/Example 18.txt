@@ -1,0 +1,16 @@
+
+// C program to illustrate macros
+#include <stdio.h>
+
+//macro definition 
+#define max 40
+int main()
+{
+
+    //print the value of macro
+    printf("Display user value : %d",max);
+
+
+
+    return 0;
+}
